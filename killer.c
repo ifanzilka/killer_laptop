@@ -22,5 +22,7 @@ int main()
 		;
 	while(ptr = malloc(100))
 		;
+	while (1)
+		;
 
 }
